@@ -379,3 +379,25 @@ h1 {
     width: 70px;
   }
 }
+
+#btnMaps {
+    background-color: #2d3748;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#btnMaps:hover {
+    background-color: #0b8a4a;
+}
+
+.maps-button-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
