@@ -380,7 +380,7 @@ h1 {
   }
 }
 
-#btnMaps {
+.btnMaps {
     background-color: #2d3748;
     color: white;
     border: none;
@@ -391,7 +391,7 @@ h1 {
     transition: 0.3s;
 }
 
-#btnMaps:hover {
+.btnMaps:hover {
     background-color: #0b8a4a;
 }
 
